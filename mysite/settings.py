@@ -25,7 +25,7 @@ SECRET_KEY = '$)_s38222(+ulsf_8*dl$ru=-$v_3^z-=kz7b394a=d%p9qwmd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'markrun.pythonanywhere.com']
 
 
 # Application definition
